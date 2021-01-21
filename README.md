@@ -4,4 +4,4 @@
 
 Grammeme tagger is a neural network solution to the problem of automatically determining the grammatical values of text lexemes of the main grammatical categories: part of speech, number, gender, person, mode, tense, aspect, voice, etc.
 
-Это реализация на PyTorch моего [дипломного проекта] (https://github.com/GURJEW/grammemer-tf)
+Это реализация на PyTorch моего [дипломного проекта](https://github.com/GURJEW/grammemer-tf)
